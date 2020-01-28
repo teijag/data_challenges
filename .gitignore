@@ -1,4 +1,4 @@
 *checkpoints/
 *.csv
-*.twbr
-*.twb
+*twbr*
+*twb*
