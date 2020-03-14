@@ -6,6 +6,6 @@
 
 3. employee_retention: why do employee leaves? In this project, I wrote about the challenges in using censored data to predict the employees' survival (retention), and compared the model performance when different ranges of input data were used. In the end, I talked about the proactive strategies for the HRs to take. 
 
-4. customer_complaints: Are the customers happy with us? In this project, I studied the current complaints and grouped them into clusters to find the most efficient ways to handle each of them.
+4. customer_complaints: Are the customers happy with us? In this project, I studied the current complaints and grouped them into clusters to find the most efficient ways to handle each of them. I talked about different clustering method and the way to choose k.
 
-5. 
+5. fraud_detection: which user could be a fraud? In this project, I used user information to predict whether he/she was fraudulent. I talked about the difference between precision and recall, and which metrics to use under different business scenarios.
